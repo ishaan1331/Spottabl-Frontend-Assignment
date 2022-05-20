@@ -1,0 +1,78 @@
+    .circulardiv {
+        border-radius: 50%;
+        background-color: lightblue;
+        width: 50px;
+        height: 50px;
+        display: inline-block;
+        float: left;
+        text-align: center;
+        margin: auto;
+        margin-right: 20px;
+        padding-top: 13px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    .bold {
+        font-weight: 600;
+    }
+    
+    #search {
+        width: 30rem;
+        height: 2.5rem;
+        float: left;
+    }
+    
+    .submit {
+        height: 2.5rem;
+        width: 7rem;
+        border: 0;
+        background-color: blue;
+        font-weight: 600;
+        color: white;
+        border-radius: 0 5px 5px 0;
+        margin-bottom: 2rem;
+    }
+    
+    .outer {
+        border: solid 0;
+        width: 45rem;
+        border-radius: 10px;
+        background-color: white;
+        margin: 1rem auto 2rem 1rem;
+        padding: 1.2rem;
+    }
+    
+    .name {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    body {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+    }
+    
+    .main {
+        background-color: rgb(228, 238, 255);
+        padding-bottom: 2rem;
+        /* padding: 2rem; */
+    }
+    
+    .upper {
+        padding: 1rem 0 0 1rem;
+    }
+    
+    .logo {
+        width: 70px;
+        height: 70px;
+        float: left;
+        margin-right: 1rem;
+    }
+    
+    .fa-trash {
+        float: right;
+        color: blue;
+        text-align: center;
+        padding-bottom: 16px;
+    }
